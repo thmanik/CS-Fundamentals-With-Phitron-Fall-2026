@@ -1,0 +1,29 @@
+01. Dynamic  & Static Memory
+02. Dyncamic Veriable
+03. Dynamic Array
+04. HOW to return an array form Function(Top Importent)
+05. Dynamic Memory Deletion
+
+
+
+
+________________ Stack Memory(Static Memory)_____________________Heap Memory(Dynamic Memory)
+
+* Stack Memory == Compile time Memory
+* Heap Memory  == Run Time Memory
+
+
+### Stack Memory:-
+
+ - ekbar arry er size defind korar pore ar notu kore array er size increase kora jay na
+ - Return korar shathe shathe Memory Clear ba Delete kore dey
+
+
+
+### Dynamic/Heap Memory:-
+
+ - Return korar  Memory Clear ba Delete hoy na
+
+
+
+
